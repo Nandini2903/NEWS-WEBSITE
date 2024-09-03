@@ -1,6 +1,6 @@
 This project is a simple React-based web application that fetches and displays real-time news headlines using the News API. It demonstrates the integration of external APIs, asynchronous data fetching, error handling, and responsive UI design.
 ## TABLE OF CONTENTS
-1.Features
+1.Features  
 2.Technologies Used
 3.Installation
 4.Usage
@@ -8,7 +8,7 @@ This project is a simple React-based web application that fetches and displays r
 6.Additional Libraries
 
 ## FEATURES
-->Real-Time News Headlines: Displays the top 5 latest news headlines fetched from the News API.
+->Real-Time News Headlines: Displays the top 5 latest news headlines fetched from the News API.  
 ->Error Handling: Shows user-friendly error messages if the API request fails.
 ->Responsive Design: Ensures a seamless experience on different devices.
 ->Direct Links: Each headline links to the full article on the respective news website.
