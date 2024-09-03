@@ -6,7 +6,6 @@ This project is a simple React-based web application that fetches and displays r
 4.Usage
 5.Configuration
 6.Additional Libraries
-7.License
 
 ## FEATURES
 ->Real-Time News Headlines: Displays the top 5 latest news headlines fetched from the News API.
@@ -47,5 +46,14 @@ Replace `your_news_api_key_here` with your actual News API key.
 ##### Running the Application Locally
 After installing dependencies and setting up the environment variables, start the development server:
 npm start
+The application will run at `http://localhost:3000/` by default. Open this URL in your browser to view the app.
 
+## CONFIGURATION
+#### Environment Variables
+This application requires an API key from the News API to function. Sign up at News API to get your API key and add it to the `.env` file as shown above.
+#### Additional Libraries
+->Axios: A promise-based HTTP client for making requests to the News API.
+Installation: npm install axios or yarn add axios
+->dotenv: To load environment variables from a .env file into process.env.
+Installation: npm install dotenv or yarn add dotenv
 
