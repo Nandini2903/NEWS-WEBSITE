@@ -26,8 +26,8 @@ This project is a simple React-based web application that fetches and displays r
 ###### STEPS
 Indented code
 
-1.Clone the repository:
-git clone https://github.com/Nandini2903/News-Website.git
+1.Clone the repository:  
+git clone https://github.com/Nandini2903/News-Website.git  
 cd News-Website
 
 2.Install dependencies:
@@ -37,9 +37,9 @@ npm install
 yarn install
 
 3.Create a .env file in the root directory:
-touch .env
--->Add your News API key to the .env file:
-REACT_APP_NEWS_API_KEY=your_news_api_key_here
+touch .env  
+-->Add your News API key to the .env file:  
+REACT_APP_NEWS_API_KEY=your_news_api_key_here  
 Replace `your_news_api_key_here` with your actual News API key.
 
 ## USAGE
@@ -52,8 +52,8 @@ The application will run at `http://localhost:3000/` by default. Open this URL i
 #### Environment Variables
 This application requires an API key from the News API to function. Sign up at News API to get your API key and add it to the `.env` file as shown above.
 #### Additional Libraries
-->Axios: A promise-based HTTP client for making requests to the News API.
-Installation: npm install axios or yarn add axios
-->dotenv: To load environment variables from a .env file into process.env.
+->Axios: A promise-based HTTP client for making requests to the News API.  
+Installation: npm install axios or yarn add axios  
+->dotenv: To load environment variables from a .env file into process.env.  
 Installation: npm install dotenv or yarn add dotenv
 
