@@ -28,7 +28,7 @@ This project is a simple React-based web application that fetches and displays r
 git clone https://github.com/Nandini2903/News-Website.git  
 cd News-Website
 
-2.Install dependencies:
+2.Install dependencies:  
 *If using npm:  
 npm install  
 *Or if using Yarn:  
